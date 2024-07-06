@@ -36,13 +36,4 @@ Welcome to my Data Science Projects repository! This repository includes a colle
   - Model building and evaluation (Naive Bayes, SVM, etc.)
   - Visualization of sentiment trends
 
-## About Me
-I am currently a 3rd-year Artificial Intelligence and Data Science (AI&DS) student at Mumbai University. I completed my computer engineering diploma in 2023 and aspire to be a data scientist. I consider myself a decent coder and am passionate about leveraging data to drive impactful solutions.
-
-Feel free to explore the projects and reach out if you have any questions or suggestions!
-
-## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
 
